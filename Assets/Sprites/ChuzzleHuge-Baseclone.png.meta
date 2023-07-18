@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 371b25c71372c70468ee9eb41d164797
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cea86600cf53a64fac05ca8adf29395
+      internalID: -306682695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc923e62750f0c4bb2267bd3a4cee84
+      internalID: 1295107428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44106b06be56bc44bc425ed443d66fc
+      internalID: -1153117798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ea2a17a16fa134ca177ce5da72b98a
+      internalID: 383509197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164f7c4c6b92164ab965e165b84cd59
+      internalID: 1740382151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba41d68f73651247b6a023ccd43c206
+      internalID: -1313082991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_6
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7084014cbafcb9f479adb2ddc2ce39c8
+      internalID: -1615592361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fe4c6348f21ff499eac025e24c3122
+      internalID: -2024070517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359a4add0bf8014bb0cc0ccacc393f2
+      internalID: -2052017417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7c7eba4216e246ae443b8201a9bbd
+      internalID: -2015301045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_10
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895fb4105863f42418081bfc6aaaafe4
+      internalID: 352669598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_11
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9323f97757f714f99c31a1f8258224
+      internalID: 829309800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_12
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee8e8a609a99a849b75d83098150958
+      internalID: -1835124222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_13
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0f782a6a6ad246b8f2c8b50fc3aae
+      internalID: -150057901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e01273b1dbbd44ba250a9425a2947f
+      internalID: -878528457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f33b36cad5c9834b8aa0effbb811b5d
+      internalID: -860816274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_16
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775ff938c0f1de04c8780f02995f35e6
+      internalID: 1764147442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_17
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b97da775d2d1644b815b071b20cca3c
+      internalID: 677153026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_18
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c3164fec5c084cb839c1075e5c8b6
+      internalID: -1587417921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_19
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff7e15b93a2dc24f86242292bd3ddea
+      internalID: 2102603594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_20
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9265cb3705f2a8a4eba2632f4e0f7313
+      internalID: -482128297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_21
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f4ba2b7f0a68d4ebae182834ae251a
+      internalID: -576808146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_22
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7672ab67c8fd40bf49604e8a53a67
+      internalID: -1021443284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_23
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b264a821c1a8e4d8b916b33e64fa84
+      internalID: 114895386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_24
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3389cbaaaffa9d40ad1e2ae1f65a70c
+      internalID: 592660861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_25
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a9d3f7a9a15b488e0a0f33ef355f8
+      internalID: -426929161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_26
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0023983f915d4bbe0f4c3524ab975
+      internalID: -214933217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_27
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753c791fe7f19346b54e1be59f43d14
+      internalID: -1732774811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_28
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07146458d18bfcc4dbc6cea6d4846c8a
+      internalID: -789695447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Baseclone_29
+      rect:
+        serializedVersion: 2
+        x: 5191
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d870a4c6053704396590a4cbb1ae9a
+      internalID: 1083912034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChuzzleHuge-Baseclone_0: -306682695
+      ChuzzleHuge-Baseclone_1: 1295107428
+      ChuzzleHuge-Baseclone_10: 352669598
+      ChuzzleHuge-Baseclone_11: 829309800
+      ChuzzleHuge-Baseclone_12: -1835124222
+      ChuzzleHuge-Baseclone_13: -150057901
+      ChuzzleHuge-Baseclone_14: -878528457
+      ChuzzleHuge-Baseclone_15: -860816274
+      ChuzzleHuge-Baseclone_16: 1764147442
+      ChuzzleHuge-Baseclone_17: 677153026
+      ChuzzleHuge-Baseclone_18: -1587417921
+      ChuzzleHuge-Baseclone_19: 2102603594
+      ChuzzleHuge-Baseclone_2: -1153117798
+      ChuzzleHuge-Baseclone_20: -482128297
+      ChuzzleHuge-Baseclone_21: -576808146
+      ChuzzleHuge-Baseclone_22: -1021443284
+      ChuzzleHuge-Baseclone_23: 114895386
+      ChuzzleHuge-Baseclone_24: 592660861
+      ChuzzleHuge-Baseclone_25: -426929161
+      ChuzzleHuge-Baseclone_26: -214933217
+      ChuzzleHuge-Baseclone_27: -1732774811
+      ChuzzleHuge-Baseclone_28: -789695447
+      ChuzzleHuge-Baseclone_29: 1083912034
+      ChuzzleHuge-Baseclone_3: 383509197
+      ChuzzleHuge-Baseclone_4: 1740382151
+      ChuzzleHuge-Baseclone_5: -1313082991
+      ChuzzleHuge-Baseclone_6: -1615592361
+      ChuzzleHuge-Baseclone_7: -2024070517
+      ChuzzleHuge-Baseclone_8: -2052017417
+      ChuzzleHuge-Baseclone_9: -2015301045
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

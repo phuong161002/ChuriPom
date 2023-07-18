@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 64c04a237ebce104882ac783a12c158c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594a571d20b9d1143bbdf8e18d14f8bf
+      internalID: -1542153172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fec875668945e469e2e79389e64d0e
+      internalID: -771467882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd864fdb350d078428ec91acc15f3eba
+      internalID: -1842500518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2e695fb7ad64b43b3fecf4fdafbcea
+      internalID: -849152378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb309cf115199b54091239136206f618
+      internalID: 739086404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed339dc0bd6be41a2064af6c181104
+      internalID: 784742190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_6
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef67b6d2c917d4daa1668023079abd
+      internalID: 1181860078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5874c94cf287fe94fb82ab286220be92
+      internalID: 217882803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba6aa3088f8b94d85ed03c98647b26
+      internalID: 948348020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34179f73db7ab4eb7a56c41e59bffb
+      internalID: -61959608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_10
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8334f02646efb4195468a1d64b990e
+      internalID: -909029602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_11
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748af695c0d22a0458ce6ae95ade3a02
+      internalID: -2005765901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_12
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73810ec95fd9dd438c74f4a361899f0
+      internalID: 615835306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_13
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09513894c5de3814ea8e39b80abf2cab
+      internalID: 536096554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b9349745bba54398f904ec819155d
+      internalID: -1506811093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60278140b8727428249a81e38876b7
+      internalID: -178020758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_16
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd2f8763acf064896d84bc2ea23d7c
+      internalID: 2055561319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_17
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e24926ae7c26b4d95b540e8a781169
+      internalID: -1930242913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_18
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09fe0a573e93b443bcd68754e00163a
+      internalID: 1956432648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_19
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff63f1c98bbfb74e88c63f1368ab388
+      internalID: -561955775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_20
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad9f2ec1b49de47bfcda071f050e50
+      internalID: 444593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_21
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14563a8876d1fa241ab9ec2f787d8556
+      internalID: -1843032288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_22
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700210ed65e123746ac0f1f21a5b7f86
+      internalID: 1581569250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_23
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e528d13b8da4df44a629fd76c356458
+      internalID: -736629215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_24
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a307996a96e245af4d469247fee8d
+      internalID: -1228979897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_25
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc049ffcb133b834a97e795c256a1f3d
+      internalID: 1027589524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_26
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407288e0a76e5e4395d557dbe99e256
+      internalID: -82808719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_27
+      rect:
+        serializedVersion: 2
+        x: 4833
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7598a4929c5f499c84e64017207db
+      internalID: 442338526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_28
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e6666b20f98d4a89381999da2dc2c
+      internalID: -780694790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChuzzleHuge-Hilite_Alphaclone_29
+      rect:
+        serializedVersion: 2
+        x: 5191
+        y: 0
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c438a1831e52742a4c3ec59a287ad5
+      internalID: 1154609224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChuzzleHuge-Hilite_Alphaclone_0: -1542153172
+      ChuzzleHuge-Hilite_Alphaclone_1: -771467882
+      ChuzzleHuge-Hilite_Alphaclone_10: -909029602
+      ChuzzleHuge-Hilite_Alphaclone_11: -2005765901
+      ChuzzleHuge-Hilite_Alphaclone_12: 615835306
+      ChuzzleHuge-Hilite_Alphaclone_13: 536096554
+      ChuzzleHuge-Hilite_Alphaclone_14: -1506811093
+      ChuzzleHuge-Hilite_Alphaclone_15: -178020758
+      ChuzzleHuge-Hilite_Alphaclone_16: 2055561319
+      ChuzzleHuge-Hilite_Alphaclone_17: -1930242913
+      ChuzzleHuge-Hilite_Alphaclone_18: 1956432648
+      ChuzzleHuge-Hilite_Alphaclone_19: -561955775
+      ChuzzleHuge-Hilite_Alphaclone_2: -1842500518
+      ChuzzleHuge-Hilite_Alphaclone_20: 444593387
+      ChuzzleHuge-Hilite_Alphaclone_21: -1843032288
+      ChuzzleHuge-Hilite_Alphaclone_22: 1581569250
+      ChuzzleHuge-Hilite_Alphaclone_23: -736629215
+      ChuzzleHuge-Hilite_Alphaclone_24: -1228979897
+      ChuzzleHuge-Hilite_Alphaclone_25: 1027589524
+      ChuzzleHuge-Hilite_Alphaclone_26: -82808719
+      ChuzzleHuge-Hilite_Alphaclone_27: 442338526
+      ChuzzleHuge-Hilite_Alphaclone_28: -780694790
+      ChuzzleHuge-Hilite_Alphaclone_29: 1154609224
+      ChuzzleHuge-Hilite_Alphaclone_3: -849152378
+      ChuzzleHuge-Hilite_Alphaclone_4: 739086404
+      ChuzzleHuge-Hilite_Alphaclone_5: 784742190
+      ChuzzleHuge-Hilite_Alphaclone_6: 1181860078
+      ChuzzleHuge-Hilite_Alphaclone_7: 217882803
+      ChuzzleHuge-Hilite_Alphaclone_8: 948348020
+      ChuzzleHuge-Hilite_Alphaclone_9: -61959608
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
